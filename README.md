@@ -1,2 +1,0 @@
-# DirectionList
-Created with CodeSandbox
